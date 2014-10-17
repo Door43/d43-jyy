@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jyy:home|Door43 (jyy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jyy|d43-jyy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jyy/archive/master.zip|d43-jyy.zip]]
+
+**Recent Changes**
+{{changes>ns = jyy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jyy|Ethnologue data]]
+
